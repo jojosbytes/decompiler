@@ -1,6 +1,6 @@
 -- ProtoExtractor.lua
 local PotassiumDisassembler = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/jojosbytes/decompiler/refs/heads/main/dissasembler.luau"
+    "https://raw.githubusercontent.com/jojosbytes/decompiler/refs/heads/main/dissasembler.lua"
 ))()
 
 local ProtoExtractor = {}
